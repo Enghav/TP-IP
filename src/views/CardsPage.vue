@@ -14,7 +14,7 @@
 <script>
 import Cards from "../components/Cards.vue";
 import Buttons from "../components/Buttons.vue";
-import Img from "../assets/images/Group 1.png";
+import Img from "../assets/images/bottle.png";
 export default {
   name: "CardsProduct",
   components: {
